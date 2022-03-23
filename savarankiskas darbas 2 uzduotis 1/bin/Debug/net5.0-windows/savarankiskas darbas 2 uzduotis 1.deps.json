@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "savarankiskas darbas 2 uzduotis 1/1.0.0": {
+        "runtime": {
+          "savarankiskas darbas 2 uzduotis 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "savarankiskas darbas 2 uzduotis 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

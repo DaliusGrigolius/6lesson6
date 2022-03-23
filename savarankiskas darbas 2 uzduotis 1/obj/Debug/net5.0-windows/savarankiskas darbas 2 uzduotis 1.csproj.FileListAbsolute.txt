@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\bin\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.exe
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\bin\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.deps.json
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\bin\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.runtimeconfig.json
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\bin\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.runtimeconfig.dev.json
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\bin\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.dll
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\bin\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.pdb
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\obj\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\obj\Debug\net5.0-windows\savarankiskas_darbas_2_uzduotis_1.Form1.resources
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\obj\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\obj\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\obj\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\obj\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.AssemblyInfo.cs
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\obj\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\obj\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.dll
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\obj\Debug\net5.0-windows\refint\savarankiskas darbas 2 uzduotis 1.dll
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\obj\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.pdb
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\obj\Debug\net5.0-windows\savarankiskas darbas 2 uzduotis 1.genruntimeconfig.cache
+C:\Users\User\Desktop\repos\lesson 6\savarankiskas darbas 2 uzduotis 1\obj\Debug\net5.0-windows\ref\savarankiskas darbas 2 uzduotis 1.dll

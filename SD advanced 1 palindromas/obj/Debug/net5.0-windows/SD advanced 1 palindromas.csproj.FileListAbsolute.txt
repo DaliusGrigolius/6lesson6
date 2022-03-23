@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\bin\Debug\net5.0-windows\SD advanced 1 palindromas.exe
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\bin\Debug\net5.0-windows\SD advanced 1 palindromas.deps.json
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\bin\Debug\net5.0-windows\SD advanced 1 palindromas.runtimeconfig.json
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\bin\Debug\net5.0-windows\SD advanced 1 palindromas.runtimeconfig.dev.json
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\bin\Debug\net5.0-windows\SD advanced 1 palindromas.dll
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\bin\Debug\net5.0-windows\SD advanced 1 palindromas.pdb
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\obj\Debug\net5.0-windows\SD advanced 1 palindromas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\obj\Debug\net5.0-windows\SD_advanced_1_palindromas.Form1.resources
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\obj\Debug\net5.0-windows\SD advanced 1 palindromas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\obj\Debug\net5.0-windows\SD advanced 1 palindromas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\obj\Debug\net5.0-windows\SD advanced 1 palindromas.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\obj\Debug\net5.0-windows\SD advanced 1 palindromas.AssemblyInfo.cs
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\obj\Debug\net5.0-windows\SD advanced 1 palindromas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\obj\Debug\net5.0-windows\SD advanced 1 palindromas.dll
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\obj\Debug\net5.0-windows\refint\SD advanced 1 palindromas.dll
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\obj\Debug\net5.0-windows\SD advanced 1 palindromas.pdb
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\obj\Debug\net5.0-windows\SD advanced 1 palindromas.genruntimeconfig.cache
+C:\Users\User\Desktop\repos\lesson 6\SD advanced 1 palindromas\obj\Debug\net5.0-windows\ref\SD advanced 1 palindromas.dll

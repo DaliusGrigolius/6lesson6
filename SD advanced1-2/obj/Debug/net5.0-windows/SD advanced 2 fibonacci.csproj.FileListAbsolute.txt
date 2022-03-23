@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\bin\Debug\net5.0-windows\SD advanced 2 fibonacci.exe
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\bin\Debug\net5.0-windows\SD advanced 2 fibonacci.deps.json
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\bin\Debug\net5.0-windows\SD advanced 2 fibonacci.runtimeconfig.json
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\bin\Debug\net5.0-windows\SD advanced 2 fibonacci.runtimeconfig.dev.json
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\bin\Debug\net5.0-windows\SD advanced 2 fibonacci.dll
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\bin\Debug\net5.0-windows\SD advanced 2 fibonacci.pdb
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\obj\Debug\net5.0-windows\SD advanced 2 fibonacci.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\obj\Debug\net5.0-windows\SD_advanced1_2.Form1.resources
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\obj\Debug\net5.0-windows\SD advanced 2 fibonacci.csproj.GenerateResource.cache
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\obj\Debug\net5.0-windows\SD advanced 2 fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\obj\Debug\net5.0-windows\SD advanced 2 fibonacci.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\obj\Debug\net5.0-windows\SD advanced 2 fibonacci.AssemblyInfo.cs
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\obj\Debug\net5.0-windows\SD advanced 2 fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\obj\Debug\net5.0-windows\SD advanced 2 fibonacci.dll
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\obj\Debug\net5.0-windows\refint\SD advanced 2 fibonacci.dll
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\obj\Debug\net5.0-windows\SD advanced 2 fibonacci.pdb
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\obj\Debug\net5.0-windows\SD advanced 2 fibonacci.genruntimeconfig.cache
+C:\Users\User\Desktop\repos\lesson 6\SD advanced1-2\obj\Debug\net5.0-windows\ref\SD advanced 2 fibonacci.dll
